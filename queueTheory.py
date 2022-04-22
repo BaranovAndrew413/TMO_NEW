@@ -178,7 +178,7 @@ lyambda = float(input("Введите lyambda "))
 tau_vec = []
 y_vec = []
 y_vec_sorted = []
-
+z_vec=[]
 currentTime = 0
 for i in range(N):
     x = random()
